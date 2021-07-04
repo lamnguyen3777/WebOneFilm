@@ -1,0 +1,11 @@
+E:\PROJECT\MovieProject\Common\bin\Debug\Common.dll
+E:\PROJECT\MovieProject\Common\bin\Debug\Common.pdb
+E:\PROJECT\MovieProject\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\PROJECT\MovieProject\Common\obj\Debug\Common.dll
+E:\PROJECT\MovieProject\Common\obj\Debug\Common.pdb
+D:\2\New folder (3)\TRANVANSON-10116282-TK14.4\MovieProject\Common\bin\Debug\Common.dll
+D:\2\New folder (3)\TRANVANSON-10116282-TK14.4\MovieProject\Common\bin\Debug\Common.pdb
+D:\2\New folder (3)\TRANVANSON-10116282-TK14.4\MovieProject\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\2\New folder (3)\TRANVANSON-10116282-TK14.4\MovieProject\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\2\New folder (3)\TRANVANSON-10116282-TK14.4\MovieProject\Common\obj\Debug\Common.dll
+D:\2\New folder (3)\TRANVANSON-10116282-TK14.4\MovieProject\Common\obj\Debug\Common.pdb
